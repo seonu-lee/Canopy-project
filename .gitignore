@@ -12,11 +12,7 @@ Thumbs.db
 # 산출물 
 #canopy/output/figures/
 
-# 대용량 데이터
-canopy/data/raw/
-dr_project/data/population/
-dr_project/data/energy/
-dr_project/output/*.csv
-
-# 노트북 output 제거 (선택)
-# *.ipynb 는 추적하되 output만 날리려면 nbstripout 쓰는 게 나음
+dr_project/
+canopy_all/
+canopy_fianl/data/
+canopy_final/output/
